@@ -18,11 +18,11 @@ This repository contains the notebooks and resources that will be used during tu
 
 ## Structure
 
-The [notebooks](./notebooks) directory contains all the Jupyter notebooks that will be used during the tutorial sessions.
+The [notebooks](https://github.com/okkyibrohim/tp-css-tutorial/tree/main/notebook) directory contains all the Jupyter notebooks that will be used during the tutorial sessions.
 
-The [figure](./figure) directory contains images that are referenced in the notebooks.
+The [figure](https://github.com/okkyibrohim/tp-css-tutorial/tree/main/figure) directory contains images that are referenced in the notebooks.
 
-The [dataset](./dataset) directory contains any datasets that are used in the notebooks.
+The [dataset](https://github.com/okkyibrohim/tp-css-tutorial/tree/main/dataset) directory contains any datasets that are used in the notebooks.
 
 ## Notebooks
 
