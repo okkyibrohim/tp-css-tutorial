@@ -7,7 +7,7 @@ This repository contains the notebooks and resources that will be used during tu
 * To get started, you can download the entire repository as a ZIP file from GitHub. This will allow you to access all the notebooks and resources locally on your machine.
 
 <p align="center">
-  <img src="./figure/gh-download.png" alt="Download ZIP" width="300"/>
+  <img src="https://raw.githubusercontent.com/okkyibrohim/tp-css-tutorial/main/figure/gh-download.png" alt="Download ZIP" width="300"/>
 </p>
 
 * Once you have the ZIP file, extract it to a location of your choice.
